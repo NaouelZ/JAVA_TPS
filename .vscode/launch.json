@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lirefichier",
+            "request": "launch",
+            "mainClass": "lirefichier",
+            "projectName": "JAVA"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bataille",
+            "request": "launch",
+            "mainClass": "Bataille",
+            "projectName": "JAVA"
+        }
+    ]
+}
