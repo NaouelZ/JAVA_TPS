@@ -29,12 +29,12 @@ public class Bataille {
 		
 		System.out.println(String.format("%-16s %-16s %-16s\n", j1.pseudo,j2.pseudo,"GAGNANT"));
 		 while(jouer) {
-			if(j1.paquet.size() == 27  ) {
+			if(j1.paquet.size() == 52  ) {
 				System.out.println("Le " + j1.pseudo + " a gagné");
 				jouer = false;
 				break  ;
 			}
-			if(j2.paquet.size() == 27) {
+			if(j2.paquet.size() == 52) {
 				System.out.println("Le " + j2.pseudo + " a gagné");
 				jouer = false;
 			    break  ;
