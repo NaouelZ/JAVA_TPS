@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public abstract class Fichier {
+public abstract class Fichier implements Fichiertype {
 
 		private String chemin, extension ;
 	

@@ -7,19 +7,19 @@ public class FichierPdf extends Fichier{
 	}
 
 	public void lireLignes() throws IOException {
-		// Méthode fait pour FichierTxt
+		// MÃ©thode fait pour FichierTxt
 	}
 
 	public void lireLignesAlEnvers() throws IOException {
-		// Méthode fait pour FichierTxt
+		// MÃ©thode fait pour FichierTxt
 	}
 
-	public void lecturePalindromique() {
-		//Méthode fait pour FichierTxt		
+	public void lecturePalindromique() throws IOException{
+		//MÃ©thode fait pour FichierTxt		
 	}
 
 	public void compareFichiers(Fichier F) throws IOException {
-		// Méthode fait pour FichierTxt
+		// MÃ©thode fait pour FichierTxt
 		
 	}
 
